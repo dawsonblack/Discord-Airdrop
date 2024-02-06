@@ -5,7 +5,7 @@
 
 # Steps for use
 1. Open discord on your browser and log in
-2. Create a new server. This will be your own private server where all of the sending and receiving data will be routed
+2. Create a new server. This will be your own private server where all data will be sent and received
 3. Once this is done, go to the general channel and inspect element, then click on network at the top (this is why you need to be in the browser)
 4. Type anything into the chat and send it. you should see several network events pop up, click on the one that says messages. It should be a POST request type
 5. Copy the request URL at the top and paste that into the 'my_airdrop_server' variable in the python file
