@@ -1,6 +1,6 @@
 # Cross-platform Airdrop copycat using Discord's API
 ### Send any combination of text and files to your designated airdrop discord channel and run this program on the desired recipient
-#### All text is automatically saved to a txt file, with photos being stored in a folder called "Airdrop data"
+#### All text is automatically saved to a txt file, with photos and other files being stored in a folder called "Airdrop Files"
 #### If only one bit of text is detected, it's automatically copied to your clipboard
 
 # Steps for use
