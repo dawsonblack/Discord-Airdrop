@@ -11,4 +11,4 @@
 5. Copy the request URL at the top and paste that into the 'my_airdrop_server' variable in the python file
 6. Scroll down to requerst headers and copy the Authorization ID. This will be pasted into the auth value in the python file
 
-#### The program should be ready for use now, set it to open with python or terminal so that you can simply double click to accept airdrop. Remember that if you typed a message into your server to grab the request info to delete that (or send the stop key). I recommend saving the file to your desktop, wherever you save it is where any downloaded files will be saved by default.
+#### The program should be ready for use now, set it to open with python or terminal so that you can simply double click to accept airdrop. Remember that if you typed a message into your server to grab the request info, you will need to either delete it or send the stop key. I recommend saving the file to your desktop, wherever you save it is where any downloaded files will be saved by default.
